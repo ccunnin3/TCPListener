@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  main.cpp
+  TCPListener.cpp
+c:\users\caitl\source\repos\tcplistener\tcplistener\tcplistener.cpp(32): warning C4244: 'argument': conversion from 'unsigned long' to 'u_short', possible loss of data
+  Generating Code...
+  TCPListener.vcxproj -> C:\Users\caitl\source\repos\TCPListener\Debug\TCPListener.exe
